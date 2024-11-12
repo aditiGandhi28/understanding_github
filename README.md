@@ -1,2 +1,2 @@
 # understanding_github
- Weare learning git fore first time
+ We are learning git fore first time
